@@ -1,36 +1,100 @@
 {
   "title": {
     "en": "Rare Solitaires",
-    "ru": "Редкие пасьянсы"
+    "ru": "Редкие пасьянсы",
+    "de": "Seltene Solitäre",
+    "fr": "Solitaire Rare",
+    "es": "Solitarios Raros",
+    "pt": "Solitários Raros",
+    "ja": "レアソリティア",
+    "ko": "레어 솔리테어",
+    "zh": "稀有纸牌游戏",
+    "it": "Solitari Rari"
   },
   "badge": {
     "en": "5 unique historical solitaires",
-    "ru": "5 уникальных исторических пасьянсов"
+    "ru": "5 уникальных исторических пасьянсов",
+    "de": "5 einzigartige historische Solitäre",
+    "fr": "5 solitaires historiques uniques",
+    "es": "5 solitarios históricos únicos",
+    "pt": "5 solitários históricos únicos",
+    "ja": "5つのユニークな歴史的ソリティア",
+    "ko": "5가지 독특한 역사적 솔리테어",
+    "zh": "5种独特的历史纸牌游戏",
+    "it": "5 solitari storici unici"
   },
   "description": {
     "en": "Forget Klondike and Spider. We've collected unique, almost forgotten card games, each with its own legend and mechanics. Discover the world of old-time salons and patient layouts.",
-    "ru": "Забудьте о «Косынке» и «Пасьянсе Пауке». Мы собрали уникальные, почти забытые карточные игры, каждая со своей легендой и механикой. Откройте для себя мир старинных салонов и терпеливых раскладов."
+    "ru": "Забудьте о «Косынке» и «Пасьянсе Пауке». Мы собрали уникальные, почти забытые карточные игры, каждая со своей легендой и механикой. Откройте для себя мир старинных салонов и терпеливых раскладов.",
+    "de": "Vergessen Sie Klondike und Spider. Wir haben einzigartige, fast vergessene Kartenspiele gesammelt, jede mit ihrer eigenen Legende und Mechanik. Entdecken Sie die Welt der alten Salons und geduldigen Layouts.",
+    "fr": "Oubliez le Klondike et l'Spider. Nous avons rassemblé des jeux de cartes uniques, presque oubliés, chacun avec sa propre légende et mécanique. Découvrez le monde des salons d'antan et des mises en page patientes.",
+    "es": "Olvídate del Klondike y el Spider. Hemos reunido juegos de cartas únicos y casi olvidados, cada uno con su propia leyenda y mecánica. Descubre el mundo de los salones de antaño y las distribuciones pacientes.",
+    "pt": "Esqueça Klondike e Spider. Reunimos jogos de cartas únicos e quase esquecidos, cada um com sua própria lenda e mecânica. Descubra o mundo dos salões antigos e layouts pacientes.",
+    "ja": "クロンダイクやスパイダーは忘れてください。私たちは、それぞれが独自の伝説とメカニズムを持つ、ユニークでほとんど忘れられたカードゲームを集めました。昔のサロンと忍耐強いレイアウトの世界を発見してください。",
+    "ko": "클론다이크와 스파이더는 잊으세요. 저희는 각자 고유한 전설과 메커니즘을 가진 독특하고 거의 잊혀진 카드 게임을 모았습니다. 옛날 살롱과 인내심 있는 레이아웃의 세계를 발견하세요.",
+    "zh": "忘掉克朗代克和蜘蛛纸牌吧。我们收集了独特的、几乎被遗忘的纸牌游戏，每个都有自己的传说和机制。探索旧时代沙龙和耐心布局的世界。",
+    "it": "Dimentica Klondike e Spider. Abbiamo raccolto giochi di carte unici, quasi dimenticati, ognuno con la propria leggenda e meccanica. Scopri il mondo dei salotti di una volta e delle disposizioni pazienti."
   },
   "features": [
     {
       "en": "🃏 The Well (Napoleon's Tomb) — two-deck strategy",
-      "ru": "🃏 Колодец (Гробница Наполеона) — стратегия на двух колодах"
+      "ru": "🃏 Колодец (Гробница Наполеона) — стратегия на двух колодах",
+      "de": "🃏 Der Brunnen (Napoleons Grab) — Zwei-Deck-Strategie",
+      "fr": "🃏 Le Puits (Tombeau de Napoléon) — stratégie à deux jeux",
+      "es": "🃏 El Pozo (Tumba de Napoleón) — estrategia de dos barajas",
+      "pt": "🃏 O Poço (Tumba de Napoleão) — estratégia de dois baralhos",
+      "ja": "🃏 井戸 (ナポレオンの墓) — 2デッキ戦略",
+      "ko": "🃏 우물 (나폴레옹의 무덤) — 투 덱 전략",
+      "zh": "🃏 井 (拿破仑墓) — 两副牌策略",
+      "it": "🃏 Il Pozzo (Tomba di Napoleone) — strategia a due mazzi"
     },
     {
       "en": "👑 The Mockingbird — mystic 32-card solitaire",
-      "ru": "👑 Насмешница — мистический пасьянс на 32 картах"
+      "ru": "👑 Насмешница — мистический пасьянс на 32 картах",
+      "de": "👑 Die Spottdrossel — mystischer 32-Karten-Solitär",
+      "fr": "👑 L'Oiseau moqueur — solitaire mystique de 32 cartes",
+      "es": "👑 El Sinsonte — solitario místico de 32 cartas",
+      "pt": "👑 O Zombeteiro — solitário místico de 32 cartas",
+      "ja": "👑 マッキンバード — 神秘的な32カードソリティア",
+      "ko": "👑 모킹버드 — 신비로운 32카드 솔리테어",
+      "zh": "👑 嘲鸫 — 神秘的32张牌游戏",
+      "it": "👑 L'Uccello canoro — solitario mistico da 32 carte"
     },
     {
       "en": "👩‍🍳 Baker's Dozen — puzzle where skill matters",
-      "ru": "👩‍🍳 Дюжина пекаря (Чертова дюжина) — головоломка, где важна стратегия"
+      "ru": "👩‍🍳 Дюжина пекаря (Чертова дюжина) — головоломка, где важна стратегия",
+      "de": "👩‍🍳 Bäcker-Dutzend — Rätsel, bei dem Geschick zählt",
+      "fr": "👩‍🍳 Douzaine du boulanger — puzzle où l'habileté compte",
+      "es": "👩‍🍳 Docena del panadero — rompecabezas donde la habilidad importa",
+      "pt": "👩‍🍳 Dúzia do padeiro — quebra-cabeça onde a habilidade conta",
+      "ja": "👩‍🍳 ベイカーズダズン — スキルが重要なパズル",
+      "ko": "👩‍🍳 베이커스 더즌 — 기술이 중요한 퍼즐",
+      "zh": "👩‍🍳 面包师一打 — 技巧至关重要的解谜游戏",
+      "it": "👩‍🍳 La dozzina del fornaio — puzzle dove l'abilità conta"
     },
     {
       "en": "👸 Good Louise — elegant 19th century French solitaire",
-      "ru": "👸 Добрая Луиза — элегантный французский пасьянс XIX века"
+      "ru": "👸 Добрая Луиза — элегантный французский пасьянс XIX века",
+      "de": "👸 Gute Louise — eleganter französischer Solitär des 19. Jahrhunderts",
+      "fr": "👸 Bonne Louise — solitaire français élégant du XIXe siècle",
+      "es": "👸 Buena Luisa — elegante solitario francés del siglo XIX",
+      "pt": "👸 Boa Luísa — elegante solitário francês do século XIX",
+      "ja": "👸 グッド・ルイーズ — エレガントな19世紀フレンチソリティア",
+      "ko": "👸 굿 루이즈 — 우아한 19세기 프랑스 솔리테어",
+      "zh": "👸 好路易丝 — 优雅的19世纪法国纸牌游戏",
+      "it": "👸 Buona Luisa — elegante solitario francese del XIX secolo"
     },
     {
       "en": "💤 12 Sleeping Maidens — poetic solitaire with awakening mechanics",
-      "ru": "💤 12 спящих дев — поэтичный пасьянс с механикой «пробуждения»"
+      "ru": "💤 12 спящих дев — поэтичный пасьянс с механикой «пробуждения»",
+      "de": "💤 12 schlafende Jungfrauen — poetischer Solitär mit Aufwachmechanik",
+      "fr": "💤 12 Demoiselles endormies — solitaire poétique avec mécanique de réveil",
+      "es": "💤 12 Doncellas durmientes — solitario poético con mecánica de despertar",
+      "pt": "💤 12 Donzelas adormecidas — solitário poético com mecânica de despertar",
+      "ja": "💤 12人の眠る乙女 — 目覚めのメカニクスを持つ詩的なソリティア",
+      "ko": "💤 12명의 잠자는 처녀 — 각성 메커니즘을 가진 시적인 솔리테어",
+      "zh": "💤 12个睡美人 — 具有觉醒机制的诗意纸牌游戏",
+      "it": "💤 12 Fanciulle addormentate — solitario poetico con meccaniche di risveglio"
     }
   ],
   "cover": "images/rare-solitaires-cover.jpg",
