@@ -1,0 +1,49 @@
+{
+  "title": {
+    "en": "Rare Solitaires",
+    "ru": "Редкие пасьянсы"
+  },
+  "badge": {
+    "en": "5 unique historical solitaires",
+    "ru": "5 уникальных исторических пасьянсов"
+  },
+  "description": {
+    "en": "Forget Klondike and Spider. We've collected unique, almost forgotten card games, each with its own legend and mechanics. Discover the world of old-time salons and patient layouts.",
+    "ru": "Забудьте о «Косынке» и «Пасьянсе Пауке». Мы собрали уникальные, почти забытые карточные игры, каждая со своей легендой и механикой. Откройте для себя мир старинных салонов и терпеливых раскладов."
+  },
+  "features": [
+    {
+      "en": "🃏 The Well (Napoleon's Tomb) — two-deck strategy",
+      "ru": "🃏 Колодец (Гробница Наполеона) — стратегия на двух колодах"
+    },
+    {
+      "en": "👑 The Mockingbird — mystic 32-card solitaire",
+      "ru": "👑 Насмешница — мистический пасьянс на 32 картах"
+    },
+    {
+      "en": "👩‍🍳 Baker's Dozen — puzzle where skill matters",
+      "ru": "👩‍🍳 Дюжина пекаря (Чертова дюжина) — головоломка, где важна стратегия"
+    },
+    {
+      "en": "👸 Good Louise — elegant 19th century French solitaire",
+      "ru": "👸 Добрая Луиза — элегантный французский пасьянс XIX века"
+    },
+    {
+      "en": "💤 12 Sleeping Maidens — poetic solitaire with awakening mechanics",
+      "ru": "💤 12 спящих дев — поэтичный пасьянс с механикой «пробуждения»"
+    }
+  ],
+  "cover": "images/rare-solitaires-cover.jpg",
+  "screenshots": [
+    "images/ss1.jpg",
+    "images/ss2.jpg",
+    "images/ss3.jpg"
+  ],
+  "storeLinks": {
+    "googleplay": "https://play.google.com/store/apps/details?id=com.defey.solitairewell",
+    "rustore": "",
+    "huawei": ""
+  },
+  "privacyPolicy": "rare_solitaire_privacy_policy.html",
+  "termsOfService": "rare_solitaires_terms_of_service.html"
+}
