@@ -3,14 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-    <title>DeFey Games — игры с душой</title>
-    <meta name="description" content="DeFey Games создаёт уникальные игры с душой. Начните с коллекции исторических пасьянсов.">
+    <title>DeFey Games — games with soul</title>
+    <meta name="description" content="DeFey Games creates unique games with soul. Start with Rare Solitaires — a collection of historical solitaires.">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <div class="container">
-    <!-- Шапка с переключателем языков -->
     <div class="header">
         <div class="lang-selector">
             <div class="selected-lang" id="langSelected">
@@ -19,16 +18,20 @@
             <ul class="lang-dropdown" id="langDropdown">
                 <li data-lang="en" data-flag="🇬🇧">English</li>
                 <li data-lang="ru" data-flag="🇷🇺">Русский</li>
-                <!-- остальные 8 языков добавим позже -->
+                <li data-lang="de" data-flag="🇩🇪">Deutsch</li>
+                <li data-lang="fr" data-flag="🇫🇷">Français</li>
+                <li data-lang="es" data-flag="🇪🇸">Español</li>
+                <li data-lang="pt" data-flag="🇵🇹">Português</li>
+                <li data-lang="ja" data-flag="🇯🇵">日本語</li>
+                <li data-lang="ko" data-flag="🇰🇷">한국어</li>
+                <li data-lang="zh" data-flag="🇨🇳">中文</li>
+                <li data-lang="it" data-flag="🇮🇹">Italiano</li>
             </ul>
         </div>
-        <div class="logo">
-            🃟 DeFey Games
-        </div>
-        <div class="tagline" data-i18n="tagline">игры с душой • уникальные механики • в любое время</div>
+        <div class="logo">🃟 DeFey Games</div>
+        <div class="tagline" data-i18n="tagline">games with soul • unique mechanics • anytime</div>
     </div>
 
-    <!-- Сюда будут загружаться карточки игр -->
     <div id="gamesContainer"></div>
 
     <footer>
