@@ -42,8 +42,8 @@
     "images/ss5.png"
   ],
   "storeLinks": {
-    "googleplay": "https://play.google.com/store/apps/details?id=com.defey.solitairewell",
-    "rustore": "",
+    "googleplay": "https://play.google.com/store/apps/details?id=com.defey.solitairewell.gp",
+    "rustore": "https://www.rustore.ru/catalog/app/com.defey.solitairewell",
     "huawei": ""
   },
   "privacyPolicy": "rare_solitaire_privacy_policy.html",
