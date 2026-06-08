@@ -35,9 +35,11 @@
   ],
   "cover": "images/rare-solitaires-cover.jpg",
   "screenshots": [
-    "images/ss1.jpg",
-    "images/ss2.jpg",
-    "images/ss3.jpg"
+    "images/ss1.png",
+    "images/ss2.png",
+    "images/ss3.png",
+    "images/ss4.png",
+    "images/ss5.png"
   ],
   "storeLinks": {
     "googleplay": "https://play.google.com/store/apps/details?id=com.defey.solitairewell",
