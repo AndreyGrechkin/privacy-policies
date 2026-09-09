@@ -30,7 +30,7 @@ let currentLang = "en";
 let gamesData = [];
 
 async function loadGames() {
-    const gameFiles = ["rare-solitaires.json"];
+    const gameFiles = ["rare-solitaires.json", "lab-puzzles.json"];
     const container = document.getElementById("gamesContainer");
     container.innerHTML = "";
     gamesData = [];
