@@ -1,0 +1,103 @@
+{
+  "title": {
+    "en": "Lab Puzzles",
+    "ru": "Лаборатория головоломок",
+    "de": "Labor-Puzzles",
+    "fr": "Puzzles de Laboratoire",
+    "es": "Puzzles de Laboratorio",
+    "pt": "Puzzles de Laboratório",
+    "ja": "ラボパズル",
+    "ko": "랩 퍼즐",
+    "zh": "实验室拼图",
+    "it": "Puzzle da Laboratorio"
+  },
+  "badge": {
+    "en": "4 unique puzzles in one app",
+    "ru": "4 уникальные головоломки в одном приложении",
+    "de": "4 einzigartige Puzzles in einer App",
+    "fr": "4 puzzles uniques dans une application",
+    "es": "4 puzzles únicos en una aplicación",
+    "pt": "4 puzzles únicos em um aplicativo",
+    "ja": "1つのアプリに4つのユニークなパズル",
+    "ko": "하나의 앱에 4가지 독특한 퍼즐",
+    "zh": "一个应用中的4种独特拼图",
+    "it": "4 puzzle unici in un'app"
+  },
+  "description": {
+    "en": "Lab Puzzles is a collection of four classic logic puzzles in one app. Challenge yourself with Sudoku, Flow Free, Unblock Me, and Water Sort — all in one place. Each game offers a unique mechanic and gradually increasing difficulty. Train your brain, relax, and enjoy hours of puzzle-solving fun.",
+    "ru": "Лаборатория головоломок — это сборник четырёх классических логических игр в одном приложении. Испытайте себя в Судоку, Flow Free, Unblock Me и Water Sort — всё в одном месте. Каждая игра предлагает уникальную механику и постепенно возрастающую сложность. Тренируйте мозг, расслабляйтесь и наслаждайтесь часами разгадывания головоломок.",
+    "de": "Lab Puzzles ist eine Sammlung von vier klassischen Logikrätseln in einer App. Fordern Sie sich mit Sudoku, Flow Free, Unblock Me und Water Sort heraus – alles an einem Ort. Jedes Spiel bietet eine einzigartige Mechanik und einen schrittweise steigenden Schwierigkeitsgrad. Trainieren Sie Ihr Gehirn, entspannen Sie sich und genießen Sie stundenlangen Rätselspaß.",
+    "fr": "Lab Puzzles est une collection de quatre puzzles logiques classiques dans une seule application. Mettez-vous au défi avec Sudoku, Flow Free, Unblock Me et Water Sort — tout en un seul endroit. Chaque jeu offre une mécanique unique et une difficulté croissante. Entraînez votre cerveau, détendez-vous et profitez de heures de plaisir de réflexion.",
+    "es": "Lab Puzzles es una colección de cuatro juegos de lógica clásicos en una sola aplicación. Ponte a prueba con Sudoku, Flow Free, Unblock Me y Water Sort — todo en un solo lugar. Cada juego ofrece una mecánica única y una dificultad creciente. Entrena tu cerebro, relájate y disfruta de horas de diversión resolviendo puzzles.",
+    "pt": "Lab Puzzles é uma coleção de quatro jogos de lógica clássicos em um aplicativo. Desafie-se com Sudoku, Flow Free, Unblock Me e Water Sort — tudo em um só lugar. Cada jogo oferece uma mecânica única e dificuldade crescente. Treine seu cérebro, relaxe e aproveite horas de diversão com quebra-cabeças.",
+    "ja": "Lab Puzzlesは、4つの古典的なロジックパズルを1つのアプリにまとめたコレクションです。数独、Flow Free、Unblock Me、Water Sortに挑戦しましょう。各ゲームはユニークなメカニズムと段階的に難しくなるレベルを提供します。脳を鍛え、リラックスし、何時間でもパズルを楽しめます。",
+    "ko": "Lab Puzzles는 하나의 앱에 네 가지 클래식 로직 퍼즐을 모은 컬렉션입니다. 스도쿠, Flow Free, Unblock Me, Water Sort에 도전하세요 — 모두 한 곳에 있습니다. 각 게임은 독특한 메커니즘과 점진적으로 증가하는 난이도를 제공합니다. 두뇌를 훈련하고, 휴식을 취하며, 몇 시간 동안 퍼즐을 즐기세요.",
+    "zh": "Lab Puzzles是一个应用中的四款经典逻辑游戏合集。挑战数独、Flow Free、Unblock Me和Water Sort——全部集中在一个地方。每款游戏都提供独特的机制和逐步增加的难度。训练您的大脑，放松身心，享受数小时的解谜乐趣。",
+    "it": "Lab Puzzles è una raccolta di quattro puzzle logici classici in un'unica app. Mettiti alla prova con Sudoku, Flow Free, Unblock Me e Water Sort — tutto in un unico posto. Ogni gioco offre una meccanica unica e una difficoltà gradualmente crescente. Allena il cervello, rilassati e goditi ore di divertimento con i puzzle."
+  },
+  "features": [
+    {
+      "en": "🧪 Water Sort — sort colored water into separate vials",
+      "ru": "🧪 Water Sort — рассортируйте цветную воду по колбам",
+      "de": "🧪 Water Sort — sortiere farbiges Wasser in einzelne Fläschchen",
+      "fr": "🧪 Water Sort — triez l'eau colorée dans des fioles séparées",
+      "es": "🧪 Water Sort — clasifica el agua de colores en viales separados",
+      "pt": "🧪 Water Sort — classifique água colorida em frascos separados",
+      "ja": "🧪 Water Sort — 色付きの水を別々のバイアルに仕分ける",
+      "ko": "🧪 Water Sort — 색깔 있는 물을 별도의 바이알에 분류",
+      "zh": "🧪 Water Sort — 将彩色水分装到不同的试管中",
+      "it": "🧪 Water Sort — smista l'acqua colorata in fiale separate"
+    },
+    {
+      "en": "📦 Unblock Me — slide laboratory containers to clear the path",
+      "ru": "📦 Unblock Me — передвигайте лабораторные контейнеры, чтобы освободить путь",
+      "de": "📦 Unblock Me — schiebe Laborbehälter, um den Weg freizumachen",
+      "fr": "📦 Unblock Me — glissez les conteneurs de laboratoire pour libérer le chemin",
+      "es": "📦 Unblock Me — desliza contenedores de laboratorio para despejar el camino",
+      "pt": "📦 Unblock Me — deslize contêineres de laboratório para liberar o caminho",
+      "ja": "📦 Unblock Me — 実験室のコンテナをスライドさせて道を開ける",
+      "ko": "📦 Unblock Me — 실험실 용기를 밀어 경로를 확보하세요",
+      "zh": "📦 Unblock Me — 滑动实验室容器以清理路径",
+      "it": "📦 Unblock Me — fai scorrere i contenitori da laboratorio per liberare il percorso"
+    },
+    {
+      "en": "🌀 Flow Free — connect matching colors without crossing lines",
+      "ru": "🌀 Flow Free — соедините цвета, не пересекая линии",
+      "de": "🌀 Flow Free — verbinde passende Farben ohne Kreuzung",
+      "fr": "🌀 Flow Free — connectez les couleurs sans croiser les lignes",
+      "es": "🌀 Flow Free — conecta los colores sin cruzarlos",
+      "pt": "🌀 Flow Free — conecte as cores sem cruzar as linhas",
+      "ja": "🌀 Flow Free — 線が交差しないように色を結ぶ",
+      "ko": "🌀 Flow Free — 선이 교차하지 않도록 색상 연결",
+      "zh": "🌀 Flow Free — 连接颜色而不交叉",
+      "it": "🌀 Flow Free — collega i colori senza incrociare le linee"
+    },
+    {
+      "en": "🔢 Sudoku — classic number puzzle with 9x9 grid",
+      "ru": "🔢 Судоку — классическая головоломка с сеткой 9x9",
+      "de": "🔢 Sudoku — klassisches Zahlenrätsel mit 9x9-Gitter",
+      "fr": "🔢 Sudoku — puzzle de chiffres classique avec grille 9x9",
+      "es": "🔢 Sudoku — puzzle de números clásico con cuadrícula 9x9",
+      "pt": "🔢 Sudoku — quebra-cabeça de números clássico com grade 9x9",
+      "ja": "🔢 数独 — 9x9グリッドのクラシックナンバーパズル",
+      "ko": "🔢 스도쿠 — 9x9 그리드의 클래식 숫자 퍼즐",
+      "zh": "🔢 数独 — 经典数字谜题，9x9网格",
+      "it": "🔢 Sudoku — puzzle di numeri classico con griglia 9x9"
+    }
+  ],
+  "cover": "images/lab-puzzles-cover.png",
+  "screenshots": [
+    "images/lab-ss1.png",
+    "images/lab-ss2.png",
+    "images/lab-ss3.png",
+    "images/lab-ss4.png",
+    "images/lab-ss5.png"
+  ],
+  "storeLinks": {
+    "googleplay": "",
+    "rustore": "https://www.rustore.ru/catalog/app/com.defey.labpuzzles",
+    "huawei": ""
+  },
+  "privacyPolicy": "lab_puzzles_privacy_policy.html",
+  "termsOfService": "lab_puzzles_terms_of_service.html"
+}
